@@ -9,7 +9,7 @@ Please consider citing the work if you find it useful.
 ```
 @article{Particle Swarm-Optimized Artificial Neural Network for Non-Invasive Glucose Measurement and HbA1c Computation,
   author = {Suma KV, Dharini Raghavan, Maya V Karki, Narayana Sharma and Gundu Rao},
-  doi = {10.0000/00000},
+  doi = {10.36227/techrxiv.24465955.v1},
   journal = {Techrxiv},
   pages = {1--4},
   title = {{Particle Swarm-Optimized Artificial Neural Network for Non-Invasive Glucose Measurement and HbA1c Computation}},
