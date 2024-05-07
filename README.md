@@ -5,6 +5,15 @@ In this work, a particle-swarm optimization-based artificial neural network for 
 
 The accuracy and reliability of the proposed system are analysed using the Clarke Error Grid (CEG) with 93.9% of the obtained readings falling within zone A and 100% of the readings falling in the clinically accepted range (zones A and B). Refer to the [preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24465955.v1) for more details. 
 
+# Data Format
+Inputs:
+```BMI - np.array(b1, b2, b3,.....bn)```
+```Voltage (in mV) - np.array(v1, v2, v3,......vn)```
+```Age - np.array(a1, a2, a3,......an)```
+Output:
+```glucose in mg/dl```
+Run ```pso_ann.py``` after modifying the data values.
+
 Please consider citing the work if you find it useful. 
 ```
 @article{Particle Swarm-Optimized Artificial Neural Network for Non-Invasive Glucose Measurement and HbA1c Computation,
