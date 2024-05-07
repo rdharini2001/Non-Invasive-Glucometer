@@ -12,7 +12,8 @@ Inputs:
 ```Age - np.array(a1, a2, a3,......an)```
 Output:
 ```glucose in mg/dl```
-Run ```pso_ann.py``` after modifying the data values.
+
+Run ```pso_ann.py``` after mosdifying ```Xtrain``` and PSO parameters.
 
 Please consider citing the work if you find it useful. 
 ```
