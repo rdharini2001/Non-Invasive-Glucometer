@@ -3,18 +3,6 @@ In this work, a particle-swarm optimization-based artificial neural network for 
 
 ![alt text](https://github.com/rdharini2001/Non-Invasive-Glucometer/blob/main/methodology_glucometer.png)
 
-The accuracy and reliability of the proposed system are analysed using the Clarke Error Grid (CEG) with 93.9% of the obtained readings falling within zone A and 100% of the readings falling in the clinically accepted range (zones A and B). Refer to the [Preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24465955.v1) for more details. 
+The accuracy and reliability of the proposed system are analysed using the Clarke Error Grid (CEG) with 93.9% of the obtained readings falling within zone A and 100% of the readings falling in the clinically accepted range (zones A and B). Refer to the [preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24465955.v1) for more details. 
 
 Please consider citing the work if you find it useful.
-@article{Lisa_My_awesome_research_2021,
-  author = {Lisa, Mona and Bot, Hew},
-  doi = {10.0000/00000},
-  journal = {Journal Title},
-  month = {9},
-  number = {1},
-  pages = {1--10},
-  title = {{My awesome research software}},
-  volume = {1},
-  year = {2021}
-}
-
