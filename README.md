@@ -1,6 +1,5 @@
 # Particle Swarm-Optimized Artificial Neural Network for Non-Invasive Glucose Measurement and HbA1c Computation
-[![CDNJS](https://img.shields.io/cdnjs/v/reactstrap.svg)](https://cdnjs.com/libraries/reactstrap)
-
+[Preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24465955.v1)
 In this work, a particle-swarm optimization-based artificial neural network for non-invasive continuous glucose monitoring using the principles of NIRS is proposed. It is shown that the PSO-ANN approach outperforms the traditional backpropagation algorithm used in ANN training and several other regression algorithms with the lowest error metrics: ```MAE- 1.01```, ```MSE-2.16```, ```RMSE-0.97```, ```𝑅2-0.976``` and ```modified 𝑅2-0.973```. The 3-stage methodology adopted in this work is shown below.
 
 ![alt text](https://github.com/rdharini2001/Non-Invasive-Glucometer/blob/main/methodology_glucometer.png)
