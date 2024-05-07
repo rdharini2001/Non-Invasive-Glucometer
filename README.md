@@ -14,4 +14,5 @@ Please consider citing the work if you find it useful.
   pages = {1--4},
   title = {{Particle Swarm-Optimized Artificial Neural Network for Non-Invasive Glucose Measurement and HbA1c Computation}},
   year = {2023}
-}```
+}
+```
