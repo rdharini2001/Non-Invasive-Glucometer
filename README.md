@@ -7,13 +7,13 @@ The accuracy and reliability of the proposed system are analysed using the Clark
 
 # Data Format
 Inputs:
-```BMI - np.array(b1, b2, b3,.....bn)```
-```Voltage (in mV) - np.array(v1, v2, v3,......vn)```
-```Age - np.array(a1, a2, a3,......an)```
+```BMI - np.array(b1, b2, b3,.....bn)```,
+```Voltage (in mV) - np.array(v1, v2, v3,......vn)```,
+```Age - np.array(a1, a2, a3,......an)```,
 Output:
 ```glucose in mg/dl```
 
-Run ```pso_ann.py``` after mosdifying ```Xtrain``` and PSO parameters.
+Run ```pso_ann.py``` after modifying ```Xtrain``` and PSO parameters.
 
 Please consider citing the work if you find it useful. 
 ```
